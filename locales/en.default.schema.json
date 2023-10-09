@@ -2632,9 +2632,6 @@
           },
           "label": "Desktop content position"
         },
-        "color_scheme": {
-          "info": "Visible when container displayed."
-        },
         "image_height": {
           "label": "Banner height",
           "options__1": {
